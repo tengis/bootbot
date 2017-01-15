@@ -1,6 +1,6 @@
 {
   "name": "bootbot",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Facebook Messenger Bot Framework",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,8 @@
     "config": "^1.21.0",
     "eventemitter3": "^1.2.0",
     "express": "^4.14.0",
-    "node-fetch": "^1.5.3"
+    "node-fetch": "^1.5.3",
+    "pug": "2.0.0-beta6"
   },
   "devDependencies": {
     "chai": "^3.5.0",
